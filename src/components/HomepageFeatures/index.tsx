@@ -11,32 +11,37 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '🔧 Terintegrasi dan Mudah Digunakan',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Website dokumentasi ini dirancang agar memudahkan pengguna dalam mengakses 
+        informasi seputar aplikasi yang dikembangkan dan digunakan di lingkungan 
+        Poltekkes Kemenkes Semarang. Semua informasi dikemas secara rapi, terstruktur, 
+        dan dapat diakses dengan cepat.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '📚 Fokus pada Dokumentasi Aplikasi',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Kami memahami pentingnya dokumentasi yang jelas dan ringkas. 
+        Website ini membantu dosen, tenaga kependidikan, maupun tim teknis untuk 
+        memahami cara kerja, alur penggunaan, dan solusi dari setiap aplikasi 
+        internal yang tersedia.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '⚛️ Dibangun dengan Teknologi Modern',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Dibangun menggunakan React dan Docusaurus, situs ini mudah diperbarui dan diperluas. 
+        Dengan sistem dokumentasi yang modular, kami bisa dengan cepat menambahkan panduan 
+        dan dokumentasi baru untuk aplikasi-aplikasi mendatang.
       </>
     ),
   },
