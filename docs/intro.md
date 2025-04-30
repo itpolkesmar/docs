@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# Selamat Datang di Dokumentasi Unit IT  
-## Poltekkes Kemenkes Semarang
+# Introduction
+## Dokumentasi Unit IT Poltekkes Kemenkes Semarang
 
 Website ini merupakan pusat dokumentasi resmi dari **Unit Teknologi Informasi (IT)** Poltekkes Kemenkes Semarang.  
 Tujuannya adalah memberikan akses mudah dan terstruktur terhadap dokumentasi seluruh aplikasi dan sistem informasi yang digunakan di lingkungan institusi.
