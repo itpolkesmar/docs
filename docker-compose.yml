@@ -1,10 +1,12 @@
-name: "docusaurus"
+version: "3"
+
 services:
-    serve:
-        build:
-            context: .
-            target: serve
-        ports:
-            - "52841:3000"
-        environment:
-            - NODE_ENV=production
+  docusaurus:
+    container_name: docusaurus
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "52841:80"
+    environment:
+      - NODE_ENV=production
