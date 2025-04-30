@@ -1,6 +1,4 @@
 ---
-id: introduction
-title: Pengantar
 sidebar_position: 1
 ---
 
