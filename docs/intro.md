@@ -1,47 +1,47 @@
 ---
+id: introduction
+title: Pengantar
 sidebar_position: 1
 ---
 
-# Introduction
+# Selamat Datang di Dokumentasi Unit IT  
+## Poltekkes Kemenkes Semarang
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Website ini merupakan pusat dokumentasi resmi dari **Unit Teknologi Informasi (IT)** Poltekkes Kemenkes Semarang.  
+Tujuannya adalah memberikan akses mudah dan terstruktur terhadap dokumentasi seluruh aplikasi dan sistem informasi yang digunakan di lingkungan institusi.
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+## 🎯 Tujuan
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Menyediakan panduan penggunaan aplikasi bagi dosen, tenaga kependidikan, dan tim teknis.
+- Mempermudah proses pemeliharaan dan pengembangan aplikasi internal.
+- Menjadi rujukan utama untuk troubleshooting dan penggunaan sistem.
 
-### What you'll need
+---
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 📦 Apa Saja yang Didokumentasikan?
 
-## Generate a new site
+- Aplikasi Akademik
+- Sistem Informasi Kepegawaian
+- Layanan Helpdesk
+- Manajemen Sarana & Prasarana
+- Sistem Penjaminan Mutu
+- Dan masih banyak lagi...
 
-Generate a new Docusaurus site using the **classic template**.
+---
 
-The classic template will automatically be added to your project after you run the command:
+## 🛠️ Teknologi yang Digunakan
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Dokumentasi ini dibangun menggunakan **[Docusaurus](https://docusaurus.io/)**, framework open-source berbasis React yang memudahkan pembuatan dokumentasi modern, cepat, dan mudah dirawat.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+---
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## 📌 Catatan
 
-## Start your site
+Jika kamu memiliki pertanyaan atau permintaan pembaruan dokumentasi, silakan hubungi **Unit IT** melalui helpdesk internal atau email resmi kami.
 
-Run the development server:
+---
 
-```bash
-cd my-website
-npm run start
-```
+> 🧩 Dokumentasi ini akan terus diperbarui secara berkala sesuai perkembangan sistem dan kebutuhan pengguna.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
